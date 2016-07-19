@@ -5,11 +5,8 @@ from scipy.stats import norm
 import matplotlib.pyplot as plt
 
 
-#x = np.random.random_sample()
-#y = np.random.random_sample()
-
-# seems to be follwing the function (x*y)/3
-
+# http://web.mit.edu/neboat/Public/6.042/randomwalks.pdf
+# https://www.youtube.com/watch?v=9FVlkg2bLlI
 
 x = 5
 y = -5
